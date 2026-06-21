@@ -16,9 +16,9 @@ I love coding while listening to music
 - Typescript
 - Powershell/Shell Scripting
 
-### 🚀 Current Positions:
+### 🏢 Current Positions:
 - Developer @ PaleEvents
 - Developer @ ODIESSA
 
-### 📫 contact
+### 📫 Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/962457738959527996?showDisplayName=true&hideStatus=true&idleMessage=Hello)](https://discord.com/users/962457738959527996)
