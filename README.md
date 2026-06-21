@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello There.
 
-<!--
-**RTM-UK/RTM-UK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am a British Developer passionate about programming and cyber security.
 
-Here are some ideas to get you started:
+I love coding while listening to music 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 💻 Languages
+- JavaScript
+- Java
+- C
+- C#
+- C++
+- Python
+- Typescript
+- Powershell/Shell Scripting
+
+### 🚀 Current Positions:
+Developer @ PaleEvents
+Developer @ ODIESSA
+
+### 📫 contact
+[![Discord Presence](https://lanyard.cnrad.dev/api/962457738959527996?showDisplayName=true&hideStatus=true&idleMessage=Hello)](https://discord.com/users/962457738959527996)
