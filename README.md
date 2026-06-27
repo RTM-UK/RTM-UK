@@ -17,8 +17,9 @@ I love coding while listening to music
 - Powershell/Shell Scripting
 
 ### 🏢 Current Positions:
-- Developer @ PaleEvents
+- Lead Developer @ PaleEvents
 - Developer @ ODIESSA
+- Developer @ nethpot.com
 
 ### 📫 Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/962457738959527996?showDisplayName=true&hideStatus=true&idleMessage=Hello)](https://discord.com/users/962457738959527996)
